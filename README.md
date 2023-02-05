@@ -1,4 +1,5 @@
 # CSC104-BasicHTML
+This page will output a simple and calming meditation resource that is a reminder to help calm anyone who visits to do a quick meditation. The page is ocean blue colors with a picture of an ocean. This page was designed to meet the requirements of the assignment and enhance skills through practice in the HTML and CSS pages. 
 Objectives / Requirements for this page submission
   Create a basic markup structure for an HTML document.
   Add title, headings, text, and other items using the elements discussed in the reading from our textbook. 
